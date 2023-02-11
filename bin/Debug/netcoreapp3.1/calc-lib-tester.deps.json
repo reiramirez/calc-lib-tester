@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "calc-lib-tester/1.0.0": {
+        "dependencies": {
+          "calc-lib": "1.0.0"
+        },
+        "runtime": {
+          "calc-lib-tester.dll": {}
+        }
+      },
+      "calc-lib/1.0.0": {
+        "runtime": {
+          "calc-lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calc-lib-tester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "calc-lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
